@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa9d49b7.css",
-    "main.js": "/static/js/main.ea1ea8a7.js",
-    "index.html": "/index.html",
-    "main.fa9d49b7.css.map": "/static/css/main.fa9d49b7.css.map",
-    "main.ea1ea8a7.js.map": "/static/js/main.ea1ea8a7.js.map"
+    "main.css": "/GUIUniApp/static/css/main.fa9d49b7.css",
+    "main.js": "/GUIUniApp/static/js/main.ea1ea8a7.js",
+    "index.html": "/GUIUniApp/index.html",
+    "main.fa9d49b7.css.map": "/GUIUniApp/static/css/main.fa9d49b7.css.map",
+    "main.ea1ea8a7.js.map": "/GUIUniApp/static/js/main.ea1ea8a7.js.map"
   },
   "entrypoints": [
     "static/css/main.fa9d49b7.css",
