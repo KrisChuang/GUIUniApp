@@ -1,5 +1,28 @@
-.App {
-  text-align: center;
+body{
+  background: url(https://www.uts.edu.au/AdaptiveImages/bynder/6B78FE0B-05F4-4ED6-B7B1EBC2709E5778/Original_Image-UTS-Campus-by-day.jpg?quality=100&width=1920&height=1440&stamp=7505d037c522844212b996bdda5986fd353627cb);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+.container {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+}
+
+.container > form {
+  width: 70%;
+  border: 1px solid #dfdfdf;
+  padding: 20px;
+  border-radius: 5px;
+  background: #fff;
 }
 
 .App-logo {
