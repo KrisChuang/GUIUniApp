@@ -1,6 +1,7 @@
 {
   "name": "guiuniapp",
   "version": "0.2.0",
+  "homepage": "https://krischuang.github.io/GUIUniApp/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
