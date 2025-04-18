@@ -115,10 +115,10 @@ function App() {
                         <p>{formErrors.confirmPassword}</p>
                         <button className="fluid ui button blue">Submit</button>
                     </div>
+                    <div className="text">
+                        Already have an account? <span>Login</span>
+                    </div>
                 </form>
-                <div className="text">
-                    Already have an account? <span>Login</span>
-                </div>
             </div>{" "}
         </>
     );
